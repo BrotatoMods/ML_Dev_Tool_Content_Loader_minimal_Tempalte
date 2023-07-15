@@ -4,13 +4,17 @@
 
 <br />
 
-![image](https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte/assets/41547570/6c845673-ce1b-4f0e-bc01-466dcbf12587)
+<a href="https://github.com/GodotModding/godot-mod-tool">
+<img alt="Godot Modding Logo" src="https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte/assets/41547570/676c9f12-b16f-407d-8533-c2231a2bd34f" width="256" />
+</a>
+
+<br />
+<br />
 
 This is a minimal [Content Loader](https://github.com/BrotatoMods/Brotato-ContentLoader) Template for the [Mod Loader Dev Tool](https://github.com/GodotModding/godot-mod-tool).
 
 </div>
 
-<br />
 <br />
 
 To use this template, follow these steps:
@@ -21,5 +25,9 @@ To use this template, follow these steps:
 
 Enjoy modding with the [Mod Loader Dev Tool](https://github.com/GodotModding/godot-mod-tool)! 🎉
 
+<br />
+<br />
 
+## Screenshots
 
+![image](https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte/assets/41547570/6c845673-ce1b-4f0e-bc01-466dcbf12587)
