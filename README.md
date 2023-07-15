@@ -2,14 +2,16 @@
 
 # Minimal - [Mod Loader Dev Tool](https://github.com/GodotModding/godot-mod-tool) - [Content Loader](https://github.com/BrotatoMods/Brotato-ContentLoader) - Template
 
-![image](https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte/assets/41547570/6c845673-ce1b-4f0e-bc01-466dcbf12587)
+<br />
 
-<br />
-<br />
+![image](https://github.com/BrotatoMods/ML_Dev_Tool_Content_Loader_minimal_Tempalte/assets/41547570/6c845673-ce1b-4f0e-bc01-466dcbf12587)
 
 This is a minimal [Content Loader](https://github.com/BrotatoMods/Brotato-ContentLoader) Template for the [Mod Loader Dev Tool](https://github.com/GodotModding/godot-mod-tool).
 
 </div>
+
+<br />
+<br />
 
 To use this template, follow these steps:
 
